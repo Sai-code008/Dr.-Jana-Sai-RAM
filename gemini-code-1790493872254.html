@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jana Sai Ram | Manufacturing Engineer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        html { scroll-behavior: smooth; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans leading-relaxed tracking-wide">
+
+    <!-- Navigation -->
+    <nav class="bg-white shadow-md fixed w-full z-10 top-0">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <a href="#" class="font-bold text-xl text-blue-700">JSR Profile</a>
+                <div class="hidden md:flex space-x-6 text-sm font-medium">
+                    <a href="#about" class="hover:text-blue-600 transition">About</a>
+                    <a href="#skills" class="hover:text-blue-600 transition">Skills</a>
+                    <a href="#experience" class="hover:text-blue-600 transition">Experience</a>
+                    <a href="#education" class="hover:text-blue-600 transition">Education</a>
+                    <a href="#publications" class="hover:text-blue-600 transition">Publications</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="about" class="pt-32 pb-16 bg-blue-700 text-white text-center">
+        <div class="max-w-4xl mx-auto px-4">
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">JANA SAI RAM</h1>
+            <h2 class="text-xl md:text-2xl font-light mb-6">Manufacturing Engineer</h2>
+            <p class="mb-8 text-blue-100 max-w-2xl mx-auto">
+                8 Years of Experience • Lean Six Sigma Black Belt • Expertise in EDM, Optimization Techniques, and AI/ML Prompt Engineering.
+            </p>
+            <div class="flex flex-wrap justify-center gap-4 mb-6 text-sm font-medium">
+                <span class="bg-blue-800 px-3 py-1 rounded-full">📍 Chennai, INDIA</span>
+                <span class="bg-blue-800 px-3 py-1 rounded-full">📞 +91-9908206322</span>
+                <span class="bg-blue-800 px-3 py-1 rounded-full">✉️ Janasai008@gmail.com</span>
+            </div>
+            <div class="flex flex-wrap justify-center gap-4">
+                <a href="https://www.linkedin.com/in/jana-ram-738125256" target="_blank" class="bg-white text-blue-700 px-6 py-2 rounded-full font-semibold hover:bg-gray-100 transition shadow-sm">LinkedIn</a>
+                <a href="https://scholar.google.com/citations?user=wuOGLYsAAAAJ&hl=en" target="_blank" class="bg-white text-blue-700 px-6 py-2 rounded-full font-semibold hover:bg-gray-100 transition shadow-sm">Google Scholar</a>
+                <a href="https://www.researchgate.net/profile/Jana-Sai-Ram" target="_blank" class="bg-white text-blue-700 px-6 py-2 rounded-full font-semibold hover:bg-gray-100 transition shadow-sm">Research Gate</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="max-w-5xl mx-auto px-4 py-12 space-y-16">
+
+        <!-- Skills & Certifications Section -->
+        <section id="skills">
+            <h3 class="text-2xl font-bold border-b-2 border-blue-700 pb-2 mb-6 inline-block">Expertise & Skills</h3>
+            <div class="flex flex-wrap gap-3 mb-8">
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">Creo Drawings</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">SolidWorks</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">AutoCAD</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">ANN & ML (MATLAB)</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">Python</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">Gemini Google AI (Prompt Engineer)</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">Scientific Writing & LaTeX</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">Research Design</span>
+                <span class="bg-blue-100 text-blue-800 px-4 py-2 rounded-lg font-medium shadow-sm">Lean Six Sigma (Black Belt)</span>
+            </div>
+
+            <h4 class="text-xl font-bold mb-4 text-gray-900">Certifications</h4>
+            <ul class="list-disc list-inside space-y-2 text-gray-700 bg-white p-6 rounded-lg shadow-sm border border-gray-100">
+                <li>Mechanics and Control of Robotic Manipulators</li>
+                <li>Artificial Intelligence and Machine Learning in Materials Engineering</li>
+                <li>Advanced Manufacturing Process</li>
+            </ul>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience">
+            <h3 class="text-2xl font-bold border-b-2 border-blue-700 pb-2 mb-6 inline-block">Work & Research Experience</h3>
+            <div class="space-y-6">
+                
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition">
+                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
+                        <div>
+                            <h4 class="text-xl font-bold text-gray-900">Senior Associate (Level 2)</h4>
+                            <h5 class="text-blue-700 font-medium">INNODATA, Noida, IN</h5>
+                        </div>
+                        <span class="text-gray-500 text-sm font-semibold mt-1 md:mt-0">Feb 2026 - Aug 2026</span>
+                    </div>
+                    <ul class="list-disc list-inside text-gray-700 space-y-2 mt-4">
+                        <li>Developed original, high-complexity Q&A pairs within the STEM domain.</li>
+                        <li>Crafted clear, structured prompts utilizing zero-shot, few-shot, and chain-of-thought techniques.</li>
+                        <li>Created precise 3D models of components using SolidWorks (extrude, revolve, loft, sweep).</li>
+                        <li>Authored step-by-step solutions and structured materials using LaTeX software.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition">
+                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
+                        <div>
+                            <h4 class="text-xl font-bold text-gray-900">Research Experience</h4>
+                            <h5 class="text-blue-700 font-medium">B.S.A. Crescent Institute of Science & Technology, Chennai, IN</h5>
+                        </div>
+                        <span class="text-gray-500 text-sm font-semibold mt-1 md:mt-0">Sep 2021 - Dec 2025</span>
+                    </div>
+                    <ul class="list-disc list-inside text-gray-700 space-y-2 mt-4">
+                        <li><strong>Research Work:</strong> Electrical Discharge Machining (EDM): A Proposal for a Novel, Potential Dielectric Medium.</li>
+                        <li>Investigated new types of dielectric characteristics and toxic gases using PAS equipment.</li>
+                        <li>Employed statistical and optimization techniques to enhance quality and productivity.</li>
+                        <li>Distinguished necessary geometric demonstrating in Creo software.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition">
+                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
+                        <div>
+                            <h4 class="text-xl font-bold text-gray-900">Bed-Roll Rail Inspector</h4>
+                            <h5 class="text-blue-700 font-medium">Bhilai Steel Plant (BSP), Bhilai, IN</h5>
+                        </div>
+                        <span class="text-gray-500 text-sm font-semibold mt-1 md:mt-0">Oct 2020 - Aug 2021</span>
+                    </div>
+                    <ul class="list-disc list-inside text-gray-700 space-y-2 mt-4">
+                        <li>Conducted complete viability testing of long rails (tensile, drop, microscopic, chemical).</li>
+                        <li>Identified defects by eye-tracking on the surface of the bed-roller type rail shape.</li>
+                        <li>Investigated defects using a hand-grinding machine and chipping.</li>
+                    </ul>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 hover:shadow-md transition">
+                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
+                        <div>
+                            <h4 class="text-xl font-bold text-gray-900">Assistant Professor</h4>
+                            <h5 class="text-blue-700 font-medium">Raghu Engineering College, Visakhapatnam, IN</h5>
+                        </div>
+                        <span class="text-gray-500 text-sm font-semibold mt-1 md:mt-0">Mar 2018 - Aug 2020</span>
+                    </div>
+                    <ul class="list-disc list-inside text-gray-700 space-y-2 mt-4">
+                        <li>Taught theory classes and supervised projects for undergraduate students.</li>
+                        <li>Wrote proposals to secure funding for research.</li>
+                        <li>Provided demonstrations, supervised experiments, and provided academic support.</li>
+                    </ul>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- Education Section -->
+        <section id="education">
+            <h3 class="text-2xl font-bold border-b-2 border-blue-700 pb-2 mb-6 inline-block">Education</h3>
+            <div class="grid md:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 text-center hover:shadow-md transition">
+                    <h4 class="font-bold text-lg text-gray-900">M.Tech in Thermal Engineering</h4>
+                    <p class="text-blue-700 mt-2 font-medium">GMRIT (JNTU-K)</p>
+                    <p class="text-gray-500 text-sm mt-1">2015 - 2017</p>
+                    <div class="mt-4 inline-block bg-blue-50 text-blue-800 px-3 py-1 rounded-full text-sm font-bold">CGPA: 8.25</div>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 text-center hover:shadow-md transition">
+                    <h4 class="font-bold text-lg text-gray-900">B.Tech in Mechanical Engineering</h4>
+                    <p class="text-blue-700 mt-2 font-medium">Sri Sivani College of Engineering</p>
+                    <p class="text-gray-500 text-sm mt-1">2011 - 2015</p>
+                    <div class="mt-4 inline-block bg-blue-50 text-blue-800 px-3 py-1 rounded-full text-sm font-bold">Percentage: 63.45%</div>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 text-center hover:shadow-md transition">
+                    <h4 class="font-bold text-lg text-gray-900">Intermediate in MPC</h4>
+                    <p class="text-blue-700 mt-2 font-medium">Sri Prakash, Tuni</p>
+                    <p class="text-gray-500 text-sm mt-1">2009 - 2011</p>
+                    <div class="mt-4 inline-block bg-blue-50 text-blue-800 px-3 py-1 rounded-full text-sm font-bold">Percentage: 86.6%</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Publications Section -->
+        <section id="publications">
+            <h3 class="text-2xl font-bold border-b-2 border-blue-700 pb-2 mb-6 inline-block">Research Publications</h3>
+            <div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100 overflow-hidden">
+                <div class="overflow-x-auto">
+                    <table class="w-full text-left border-collapse min-w-full">
+                        <thead>
+                            <tr class="bg-blue-50 text-blue-900 border-b-2 border-blue-100">
+                                <th class="py-4 px-6 font-semibold">Publication Details</th>
+                                <th class="py-4 px-6 font-semibold">No. of Publications</th>
+                                <th class="py-4 px-6 font-semibold">Indexed by</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="border-b border-gray-100 hover:bg-gray-50">
+                                <td class="py-4 px-6 text-gray-800 font-medium">International Journals</td>
+                                <td class="py-4 px-6 text-gray-600">05</td>
+                                <td class="py-4 px-6 text-gray-600">Scopus/WoS</td>
+                            </tr>
+                            <tr class="hover:bg-gray-50">
+                                <td class="py-4 px-6 text-gray-800 font-medium">International Conference Proceedings</td>
+                                <td class="py-4 px-6 text-gray-600">02</td>
+                                <td class="py-4 px-6 text-gray-600">Scopus/WoS</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-gray-400 py-8 text-center mt-12">
+        <p>&copy; 2026 Jana Sai Ram. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
